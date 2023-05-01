@@ -255,12 +255,17 @@
   }
 
   nav ul li i {
-    font-size: 2.6rem;
+    font-size: 2.4rem;
   }
 
   nav ul li a {
-    font-size: 2.6rem;
+    font-size: 2.4rem;
   }
+
+  .notifications-user {
+    gap: 1rem;
+  }
+
 }
 
 @media screen and (max-width: 364px) {
@@ -269,11 +274,10 @@
   }
 
   .logo {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
   }
   
 }
-
 
 @media screen and (max-width: 320px) {
   :root {
@@ -282,10 +286,6 @@
 
   .header {
     padding: 1rem 0.5rem;
-  }
-
-  .logo {
-    font-size: 2rem;
   }
   
   .logo strong {
