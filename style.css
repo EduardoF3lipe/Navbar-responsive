@@ -185,7 +185,7 @@
   @media screen and (max-width: 900px) {
     
     :root {
-      font-size: 60.5%;
+      font-size: 61.5%;
     }
 
     nav {
@@ -247,7 +247,7 @@
   
 @media screen and (max-width: 425px) {
   :root {
-    font-size: 58.5%;
+    font-size: 60.5%;
   }
 
   .header {
@@ -266,7 +266,7 @@
 
 @media screen and (max-width: 320px) {
   :root {
-    font-size: 55.5%;
+    font-size: 58.5%;
   }
 
   .header {
@@ -298,7 +298,7 @@
 
 @media screen and (max-width: 245px) {
   :root {
-    font-size: 53.5%;
+    font-size: 56.5%;
   }
 
   .logo {
