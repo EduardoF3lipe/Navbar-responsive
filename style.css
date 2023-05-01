@@ -247,7 +247,7 @@
   
 @media screen and (max-width: 425px) {
   :root {
-    font-size: 53.5%;
+    font-size: 56.5%;
   }
 
   .header {
@@ -266,7 +266,7 @@
 
 @media screen and (max-width: 320px) {
   :root {
-    font-size: 50.5%;
+    font-size: 55.5%;
   }
 
   .header {
@@ -298,7 +298,7 @@
 
 @media screen and (max-width: 245px) {
   :root {
-    font-size: 50.5%;
+    font-size: 53.5%;
   }
 
   .logo {
