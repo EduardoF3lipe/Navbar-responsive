@@ -266,6 +266,11 @@
     gap: 1rem;
   }
 
+  
+  #notif {
+    display: none;
+  }
+
 }
 
 @media screen and (max-width: 364px) {
@@ -323,10 +328,6 @@
   nav ul li a {
     padding: 1rem 2rem;
     margin: .3rem auto;
-  }
-
-  #notif {
-    display: none;
   }
  
   .user {
